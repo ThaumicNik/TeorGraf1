@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeorGraf1", "TeorGraf1\TeorGraf1.csproj", "{5BD87806-D7B7-478A-B12A-267CB75D481F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BD87806-D7B7-478A-B12A-267CB75D481F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD87806-D7B7-478A-B12A-267CB75D481F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD87806-D7B7-478A-B12A-267CB75D481F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD87806-D7B7-478A-B12A-267CB75D481F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E71B0A2-D78F-468D-9631-7D185E8C8430}
+	EndGlobalSection
+EndGlobal
